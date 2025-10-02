@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 */node_modules/
 npm-debug.log*
@@ -117,7 +117,7 @@ jspm_packages/
 
 # Gatsby files
 .cache/
-public
+# public  # Commented out to allow frontend/public directory for React app
 
 # Storybook build outputs
 .out
@@ -149,3 +149,6 @@ test_*.py
 *.backup
 *_old.*
 *_backup.*
+
+.vercel
+
