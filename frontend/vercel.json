@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "vietnamese-options-frontend",
   "builds": [
     {
       "src": "package.json",
@@ -21,8 +20,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "env": {
-    "REACT_APP_API_BASE_URL": "@api_base_url"
-  }
+  ]
 } 
