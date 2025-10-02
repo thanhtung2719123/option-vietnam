@@ -213,11 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** and **Recharts** for the beautiful frontend
 - **Vercel** for seamless deployment platform
 
-## 📞 **Contact & Support**
-
-- **GitHub Issues:** [Report bugs or request features](https://github.com/thanhtung2719123/option-vietnam/issues)
-- **Email:** [Your email for professional inquiries]
-- **LinkedIn:** [Your LinkedIn profile]
 
 ---
 
@@ -233,5 +228,3 @@ This project demonstrates:
 **⭐ Star this repository if you find it useful!**
 
 ---
-
-*Built with ❤️ for the Vietnamese financial technology community* 
