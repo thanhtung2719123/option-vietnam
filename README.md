@@ -6,13 +6,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org/)
 
-> **A comprehensive fintech platform for Vietnamese warrant risk analysis, featuring real-time Greeks calculation, Monte Carlo stress testing, and advanced portfolio risk management.**
-
-## 🌟 **Live Demo**
-
-- **Frontend:** [https://vietnamese-options-frontend.vercel.app](https://vietnamese-options-frontend.vercel.app)
-- **Backend API:** [https://vietnamese-options-backend.vercel.app/docs](https://vietnamese-options-backend.vercel.app/docs)
-- **Greeks Analysis:** [Try it now!](https://vietnamese-options-frontend.vercel.app/risk/greeks)
 
 ## 📊 **Key Features**
 
