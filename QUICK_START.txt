@@ -1,0 +1,37 @@
+========================================
+   VIETNAM WARRANT TRADING SYSTEM
+========================================
+
+🚀 CÁCH SỬ DỤNG NHANH:
+
+1️⃣ CÀI ĐẶT (chỉ chạy 1 lần):
+   Double-click: install_dependencies.bat
+   
+2️⃣ KHỞI ĐỘNG HỆ THỐNG:
+   Double-click: start_system.bat
+   
+3️⃣ SỬ DỤNG:
+   - Mở trình duyệt: http://localhost:3000
+   - Chờ 30-60 giây để khởi động
+   - Sử dụng AI chatbot để hỏi về Greeks
+   
+4️⃣ DỪNG HỆ THỐNG:
+   Double-click: stop_system.bat
+
+========================================
+
+📊 DỮ LIỆU:
+- 450+ warrants từ Vietstock
+- Greeks calculator với conversion ratio
+- AI chatbot Gemini 2.5 Pro
+
+🔧 YÊU CẦU:
+- Python 3.8+
+- Node.js 16+
+- Windows 10/11
+
+📞 HỖ TRỢ:
+- Đọc README_VIETNAMESE.md để biết chi tiết
+- Kiểm tra terminal logs nếu có lỗi
+
+======================================== 
